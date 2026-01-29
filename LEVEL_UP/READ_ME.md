@@ -12,7 +12,7 @@ AT ANY TIME WHILE IN THE MAIN APLICATION SCREEN PRESS START TO ACTIVATE THE YAHT
 Option Selection can be navigate using the UP and DOWN arrow buttons. Access it by pressing the LEFT SHOULDER button. 
 Options:
 1. Volume (DOES NOTHING)
-2. Mode: Integer => # | Time => :
-3. Percentage Range: + => [0,99] | - => [1.0,1.99|
+2. Mode: **#** => Integer | **:** => Time 
+3. Percentage Range: **+** => [0,99] | **-** => [1.0,1.99|
 ## Digit Selection
 ## Save/Load Selection
