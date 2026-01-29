@@ -21,7 +21,7 @@ Input is located in the main application screen's center. To access input press 
 **NOTE THAT THE RB SYMBOL IS HIGHLIGHTED. IF IT IS NOT THEN THE SAVE/LOAD FUNCTIONS ARE CURRENTLY ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO INPUT.**
 
 Input Digit Ranges: Mode = Time
-0. [0,9]
+1. [0,9]
 2. [0,5]
 3. [0,9]
 4. [0,5]
