@@ -9,6 +9,9 @@ The main application screen has three parts:
 AT ANY TIME WHILE IN THE MAIN APLICATION SCREEN PRESS START TO ACTIVATE THE YAHTZEE BUTTON AND CALCULATE RESLUTS AND PRESS SELECT THREE TIMES TO EXIT THE MAIN APPLICATION SCREEN INTO THE TITLE SCREEN 
 
 ## Option Selection
-Option Selection 
+Option Selection can be navigate using the UP and DOWN arrow buttons. Access it by pressing the LEFT SHOULDER button. 
+Options:
+1. Volume (DOES NOTHING)
+2. Mode: Integer =># Time => :
 ## Digit Selection
 ## Save/Load Selection
