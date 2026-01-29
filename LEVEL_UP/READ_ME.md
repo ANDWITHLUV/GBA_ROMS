@@ -18,6 +18,7 @@ Options:
 
 ## Input
 Input is located in the main application screen's center. To access input press the **RIGHT SHOULDER** button. Navigate input using **UP**,**DOWN**,**LEFT**, and **RIGHT** buttons. Press the **A** and **B** buttons to change the selected digit. Output created from from Input is located at the bootm of the screen. There are twoo types **Hi** and **Lo**. Each is usually about an integer apart.. or two, in there calculations.
+
 **NOTE THAT THE RB SYMBOL IS HIGHLIGHTED. IF IT IS NOT THEN THE SAVE/LOAD FUNCTIONS ARE CURRENTLY ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO INPUT.**
 
 Input Digit Ranges: Mode = Time
@@ -32,7 +33,10 @@ Input Digit Ranges: Mode = Integer
 3. [0,9]
    
 Input Digit Ranges: Percentage
-1.[0,9]
-2.[0,9]
+1. [0,9]
+2. [0,9]
 
 ## Save/Load
+Save/Load is located on the main application screen's right. To access Save/Load press the **RIGHT SHOULDER** button. Navigate input using the **UP** and **DOWN** buttons. Press the **A** button to save the curent state. Press the **B** buttons to to load a previously save state.
+
+**NOTE THAT ONE OF THE DIGITS IS HIGHLIGHTED. IF IT IS NOT THEN THE INPUT SCREEEN IS CURRENTLY BEING ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO SAVE/LOAD.**
