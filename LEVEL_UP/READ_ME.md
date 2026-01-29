@@ -17,9 +17,9 @@ Options:
 3. Percentage Range: **-** => [0,99] | **+** => [1.0,1.99|
 
 ## Input
-Input is located in the main application screen's center. To access input press the **RIGHT SHOULDER** button. Navigate input using **UP**,**DOWN**,**LEFT**, and **RIGHT** buttons. Press the **A** and **B** buttons to change the selected digit. Output created from from Input is located at the bottom of the screen. There are two types **Hi** and **Lo**. Each is usually about an integer apart.. or two, in there calculations.
+Input is located in the main application screen's center. To access input press the **RIGHT SHOULDER** button. Navigate input using the **UP**,**DOWN**,**LEFT**, and **RIGHT** buttons. Press the **A** and **B** buttons to change the selected digit. Output created from from Input is located at the bottom of the screen. There are two types: **Hi** and **Lo**. Each is usually about an integer apart.. or two, in there calculations.
 
-**NOTE THAT THE RB SYMBOL IS HIGHLIGHTED. IF IT IS NOT THEN THE SAVE/LOAD FUNCTIONS ARE CURRENTLY ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO INPUT.**
+**NOTE THAT THE RB SYMBOL IS HIGHLIGHTED. IF IT IS NOT, THEN THE SAVE/LOAD FUNCTIONS ARE CURRENTLY ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO INPUT.**
 
 Input Digit Ranges: Mode = Time
 1. [0,9]
@@ -37,6 +37,6 @@ Input Digit Ranges: Percentage
 2. [0,9]
 
 ## Save/Load
-Save/Load is located on the main application screen's right. To access Save/Load press the **RIGHT SHOULDER** button. Navigate input using the **UP** and **DOWN** buttons. Press the **A** button to save the current state. Press the **B** buttons to to load a previously save state.
+Save/Load is located on the main application screen's right. It has digits 0 through 8 headed and ended with the letters **A** and **B**. To access Save/Load press the **RIGHT SHOULDER** button. Navigate input using the **UP** and **DOWN** buttons. Press the **A** button to save the current state. Press the **B** button to load a previously saved state.
 
-**NOTE THAT ONE OF THE DIGITS IS HIGHLIGHTED. IF IT IS NOT THEN THE INPUT SCREEN IS CURRENTLY BEING ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO SAVE/LOAD.**
+**NOTE THAT ONE OF THE DIGITS 0 THROUGH 8 IS HIGHLIGHTED. IF IT ONE IS NOT, THEN THE INPUT SCREEN IS CURRENTLY BEING ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO SAVE/LOAD.**
