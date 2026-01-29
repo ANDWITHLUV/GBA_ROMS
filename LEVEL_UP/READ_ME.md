@@ -17,10 +17,11 @@ Options:
 3. Percentage Range: **-** => [0,99] | **+** => [1.0,1.99|
 
 ## Input
-Input is located in the main application screen's center. To access input press the **RIGHT SHOULDER** button. **NOTE THAT THE RB SYMBOL IS HIGHLIGHTED. IF IT IS NOT THEN THE SAVE/LOAD FUNCTIONS ARE CURRENTLY ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO INPUT.** Navigate input using **UP**,**DOWN**,**LEFT**, and **RIGHT** buttons. Press the **A** and **B** buttons to change the selected digit.
+Input is located in the main application screen's center. To access input press the **RIGHT SHOULDER** button. Navigate input using **UP**,**DOWN**,**LEFT**, and **RIGHT** buttons. Press the **A** and **B** buttons to change the selected digit. Output created from from Input is located at the bootm of the screen. There are twoo types **Hi** and **Lo**. Each is usually about an integer apart.. or two, in there calculations.
+**NOTE THAT THE RB SYMBOL IS HIGHLIGHTED. IF IT IS NOT THEN THE SAVE/LOAD FUNCTIONS ARE CURRENTLY ACCESSED. PRESS THE RIGHT SHOULDER BUTTON AGAIN TO RETURN TO INPUT.**
 
 Input Digit Ranges: Mode = Time
-1. [0,9]
+0. [0,9]
 2. [0,5]
 3. [0,9]
 4. [0,5]
@@ -33,4 +34,5 @@ Input Digit Ranges: Mode = Integer
 Input Digit Ranges: Percentage
 1.[0,9]
 2.[0,9]
+
 ## Save/Load
