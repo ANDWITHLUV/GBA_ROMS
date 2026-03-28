@@ -12,6 +12,19 @@ The key section features 8 keys, each with an asignable instrament. their range,
 ## Scales
 The Scales Section fetures an 8 degree scale with individually assignable degrees that correspond to the 8 keys in the key section
 - Assign key hold Left-Button and press up or down
-- Navigate hold Left-Button and press up or down
+- Navigate hold Left-Button and L\R Arrow-Buttons
+- Play scale hold Left-Button and press Start-Button
 ## Controls
+The Controls Section fetures an 24 assignable controls that will only assign to tyhe currently selcted key
+- Navigatiopn hold the Left-Button
+  - Navigate hold Left-Button and L\R Arrow-Buttons
+  - Load press the A-Button
+- Copy Control settins hold the Right-Button
+  - copy all settings hold A Buton + up
+  - copy only settings hold A Buton + left
+  - copy only 0x hold A Buton + right
+  - copy only name hold A Buton + down
+  - Uncopy hold A Buton + select-Button
+  - Paste Start-Buton +
 ## Settings
+The settings Section fetures five navigabvle areas. At the upper left is the channel  next to it the instrument name. below that are the settings to the left of them are the key bindings. bellow that are the 0x entries on the far right is the color pallete. The GBA has two modes for it 
